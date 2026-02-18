@@ -2,7 +2,7 @@
 
 ## About Me
 
-🎓 Graduate student at Northeastern University studying **International Affairs** and **International Business**
+🎓 Undergraduate student at Northeastern University studying **International Affairs** and **International Business**
 
 💼 Aspiring management consultant with a focus on strategy, sustainability, and international business
 
