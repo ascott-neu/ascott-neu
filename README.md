@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm ascott-neu 👋
 
-<!--
-**ascott-neu/ascott-neu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Graduate student at Northeastern University studying **International Affairs** and **International Business**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Aspiring management consultant with a focus on strategy, sustainability, and international business
+
+🌍 Passionate about geopolitics, conflict analysis, and humanitarian issues
+
+## 🔧 Technical Skills
+
+- **Languages:** Python, IDL
+- **Tools:** Excel, Microsoft Office Suite, Data Analysis
+- **Areas:** Financial modeling, supply chain analysis, sustainability reporting
+
+## 🌱 Currently Learning
+
+- Large Language Model (LLM) APIs and AI integration
+- Advanced Python for data analysis
+- Management consulting methodologies
+
+## 💡 Interests
+
+- International business strategy
+- ESG and sustainability
+- Geopolitical analysis
+- Financial analysis and modeling
+- Technology and innovation
+
+## 📫 Connect With Me
+
+Feel free to reach out for collaboration on projects related to international business, sustainability, or data analysis!
+
+---
+
+*This profile is actively being developed as I build my portfolio of projects.*
