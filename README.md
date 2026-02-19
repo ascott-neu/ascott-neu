@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Andrew Scott 👋
+# Hi, I'm Alexa Scott 👋
 
 **Northeastern University · International Affairs & International Business**
 
